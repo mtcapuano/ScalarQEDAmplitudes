@@ -1,7 +1,3 @@
----
-title: ScalarQEDAmplitudes
----
-
 # ScalarQEDAmplitudes
 A Mathematica code to generate any tree diagram amplitude in the single fermion scalar QED and all possible 1-loop diagrams. After downloading and runnning the code, here some possible commands are listed
 
